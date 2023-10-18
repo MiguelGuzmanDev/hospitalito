@@ -1,0 +1,31 @@
+/*
+Theme Name: Hospitalito
+Version: 1.0.0
+Theme URI: https://hospitalitodelamixteca.org
+Description: Tema para hospitalitodelamixteca
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Author: Miguel Angel Guzmán Pérez
+*/
+
+p{
+	margin-bottom: 2rem !important;
+}
+
+ul>li {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+h2 {
+	padding-top: 4rem;
+}
+
+p.justificado {
+  text-align: justify;
+}
+
+#booking{
+	padding-bottom:0rem !important;
+	padding-top:2rem !important;
+}
